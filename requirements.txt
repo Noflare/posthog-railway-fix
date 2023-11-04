@@ -419,7 +419,7 @@ pytz==2021.1
     #   infi-clickhouse-orm
     #   snowflake-connector-python
     #   tzlocal
-pyyaml==6.0
+pyyaml==6.0.1
     # via drf-spectacular
 qrcode==7.4.2
     # via django-two-factor-auth
